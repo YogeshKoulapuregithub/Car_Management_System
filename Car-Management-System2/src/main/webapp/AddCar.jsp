@@ -7,6 +7,7 @@
 <title>Add car details</title>
 </head>
 <body>
+<h2>Add Car Details</h2>
 	<form action="addCar" method="post">
 	<input type="number" placeholder="enter car Id" name="carId"><br>
 	<input type="text" placeholder="enter car model" name="carModel"><br>
