@@ -7,7 +7,7 @@ import javax.persistence.Id;
 public class Car {
 	@Id
 	private int carId;
-	private String carModel;
+	private String ;
 	private String carName;
 	private int carPrice;
 	public int getCarId() {
